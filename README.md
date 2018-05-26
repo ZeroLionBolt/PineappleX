@@ -1,2 +1,2 @@
-# PinneappleX
+# PineappleX
 I like pineapples.
